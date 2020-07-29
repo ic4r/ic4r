@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![ic4r github stats](https://github-readme-stats.vercel.app/api?username=ic4r&show_icons=true&theme=merko)
 <!--
 **ic4r/ic4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
